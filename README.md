@@ -25,7 +25,8 @@ El proyecto no solo permite jugar Sudoku clásicos, sino que también ofrece her
 Puedes ver el funcionamiento del algoritmo y la interfaz en el siguiente video:
 [Ver Video de Demostración en YouTube](https://www.youtube.com/watch?v=WbNaZf__Quo)
 
-*(Asegúrate de subir tu captura de pantalla al repositorio y enlazarla aquí)*
+![1](./sudokugenerado.png)
+![2](./sudokuresuelto.png)
 
 ### 🚀 Tecnologías Utilizadas
 
